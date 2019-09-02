@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of NYC](https://amp.businessinsider.com/images/5d0150e06fc9200b5a05f042-1536-1152.jpg)
